@@ -10,3 +10,4 @@ c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.cs
 c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.dll
 c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.pdb
 c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.csprojResolveAssemblyReference.cache
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.FormControl1.resources

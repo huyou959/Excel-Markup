@@ -13,6 +13,10 @@ namespace Excel_Markup
     {
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
+
+            FormControl1 fC = new FormControl1();
+            fC.Show();
+
         }
 
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)

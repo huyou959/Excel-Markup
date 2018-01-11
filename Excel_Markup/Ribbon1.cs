@@ -28,6 +28,12 @@ namespace Excel_Markup
         private void button_Annual_Click(object sender, RibbonControlEventArgs e)
         {   
             MessageBox.Show("You are clicking Annual Button!");
+
+            Microsoft.Office.Interop.Excel.Range stuff = Globals.ThisAddIn.Application.Selection as Excel.Range;
+
+          dynamic wtf=  stuff.Font.Color;
+
+            stuff.Font.ColorIndex = 4;
             // write the main function here
         }
         private void button_Fiscal_Click(object sender, RibbonControlEventArgs e)
