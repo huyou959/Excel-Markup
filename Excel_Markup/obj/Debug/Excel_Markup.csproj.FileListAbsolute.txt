@@ -1,0 +1,12 @@
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\bin\Debug\Excel_Markup.dll
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\bin\Debug\Excel_Markup.pdb
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\bin\Debug\Excel_Markup.dll.manifest
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\bin\Debug\Excel_Markup.vsto
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.Properties.Resources.resources
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.Ribbon1.resources
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.csproj.GenerateResource.Cache
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.csproj.CoreCompileInputs.cache
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.dll
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.pdb
+c:\Users\huyou1\source\repos\Excel_Markup\Excel_Markup\obj\Debug\Excel_Markup.csprojResolveAssemblyReference.cache
