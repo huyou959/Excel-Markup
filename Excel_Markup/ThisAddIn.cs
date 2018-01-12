@@ -14,8 +14,8 @@ namespace Excel_Markup
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
 
-            FormControl1 fC = new FormControl1();
-            fC.Show();
+            //FormControl1 fC = new FormControl1();
+            //fC.Show();
 
         }
 
